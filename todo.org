@@ -35,16 +35,18 @@
     option.
 
 * Programming tasks
-** TODO Learn more emacs keybinds, etc 			     :emacs:programming:
+** INPROGRESS Learn more emacs keybinds, etc		     :emacs:programming:
 ** INPROGRESS Learn org-mode better			     :emacs:programming:
 ** TODO Learn Python! 					    :python:programming:
-
 ** DONE Buy Github account			     :git:purchases:programming:
 
 * General tasks
 ** TODO Pick up Dmitry from San Francisco 	  :friends:sanfrancisco:general:
    DEADLINE: <2009-05-16 Sat 17:00>
 
-** TODO Create plan of what to do in Moscow 		 :moscow:travel:general:
+** TODO Create plan of what to do in Moscow		 :moscow:travel:general:
    DEADLINE: <2009-07-10 Fri>
+
 ** INPROGRESS Tell Ryan to sod off			       :friends:general:
+** TODO Meet at Kevin's house to go to Davis 		       :friends:general:
+   DEADLINE: <2009-05-17 Sun 11:00>
