@@ -1,0 +1,22 @@
+* Work tasks
+** TODO Incorporate CMake into BEF plugin 		     :work:plugin:cmake:
+   DEADLINE: <2009-05-31 Sun>
+
+** TODO Finish prototype of Photoshop Filters plugin       :work:plugin:monarch:
+   DEADLINE: <2009-05-29 Fri>
+*** TODO Plug-in integration
+*** TODO Make a superficial UI
+*** TODO Image resizing to miniature
+*** TODO Rendering the miniature inside Photoshop
+*** TODO Image transformation
+*** TODO Converting BEF back to sRGB
+*** TODO Rendering sRGB
+*** TODO User interface event code
+
+* Programming tasks
+** Learn more emacs keybinds, etc 			     :emacs:programming:
+** Learn org-mode better 				     :emacs:programming:
+** Learn Python! 					    :python:programming:
+* General tasks
+** TODO Pick up Dmitry from San Francisco 	  :friends:sanfrancisco:general:
+** TODO Create plan of what to do in Moscow 		 :moscow:travel:general:
