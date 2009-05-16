@@ -1,23 +1,50 @@
+#+SEQ_TODO: TODO INPROGRESS DONE
+
 * Work tasks
-** TODO Incorporate CMake into BEF plugin 		     :work:plugin:cmake:
+** INPROGRESS Incorporate CMake into BEF plugin		     :work:plugin:cmake:
    DEADLINE: <2009-05-31 Sun>
 
-** TODO Finish prototype of Photoshop Filters plugin       :work:plugin:monarch:
+** INPROGRESS Finish prototype of Photoshop Filters plugin :work:plugin:monarch:
    DEADLINE: <2009-05-29 Fri>
-*** TODO Plug-in integration
+*** INPROGRESS Plug-in integration
+    This is almost done, just need to add some more basic boilerplate code.
+    
 *** TODO Make a superficial UI
+    OK, Cancel, image display, and dynamically populated pane that
+    takes a bunch of scroll bars and buttons, basically, whatever is
+    needed for the transformation
+
 *** TODO Image resizing to miniature
+    Image needs to be resized to about 1.5 megapixel image - this image
+    will be the one that all operations will be done on
 *** TODO Rendering the miniature inside Photoshop
+    The miniature should be rendered using some internal Photoshop API
+    that is used to draw graphics inside of a dialogue
 *** TODO Image transformation
+    Image transformations will simply be the functions that are provided
+    by kwelib
 *** TODO Converting BEF back to sRGB
+    Use kwe::cmss::colorspace class in order to do these transforms
 *** TODO Rendering sRGB
+    This is already addressed by image transformation
 *** TODO User interface event code
+    This will be somewhat copied from UCT Studio's dialogue event code,
+    however, I'm going to see if it'll be possible to use a platform-
+    indepedent library like Qt here, so that the code can be written just
+    once for both Mac and PC. ADM Dialogs code is also an
+    option.
 
 * Programming tasks
 ** TODO Learn more emacs keybinds, etc 			     :emacs:programming:
-** TODO Learn org-mode better 				     :emacs:programming:
+** INPROGRESS Learn org-mode better			     :emacs:programming:
 ** TODO Learn Python! 					    :python:programming:
-** TODO Buy Github account 			     :git:purchases:programming:
+
+** DONE Buy Github account			     :git:purchases:programming:
+
 * General tasks
 ** TODO Pick up Dmitry from San Francisco 	  :friends:sanfrancisco:general:
+   DEADLINE: <2009-05-16 Sat 17:00>
+
 ** TODO Create plan of what to do in Moscow 		 :moscow:travel:general:
+   DEADLINE: <2009-07-10 Fri>
+** INPROGRESS Tell Ryan to sod off			       :friends:general:
