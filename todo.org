@@ -50,3 +50,7 @@
 ** INPROGRESS Tell Ryan to sod off			       :friends:general:
 ** TODO Meet at Kevin's house to go to Davis 		       :friends:general:
    DEADLINE: <2009-05-17 Sun 11:00>
+** TODO Flight: SFO -> France -> Russia 			:general:moscow:
+<2009-06-09 Tue 15:30>
+** TODO Flight: Russia -> Amsterdam -> SFO :general:moscow:
+<2009-08-12 Wed 11:10>
