@@ -14,9 +14,10 @@
 *** TODO User interface event code
 
 * Programming tasks
-** Learn more emacs keybinds, etc 			     :emacs:programming:
-** Learn org-mode better 				     :emacs:programming:
-** Learn Python! 					    :python:programming:
+** TODO Learn more emacs keybinds, etc 			     :emacs:programming:
+** TODO Learn org-mode better 				     :emacs:programming:
+** TODO Learn Python! 					    :python:programming:
+** TODO Buy Github account 			     :git:purchases:programming:
 * General tasks
 ** TODO Pick up Dmitry from San Francisco 	  :friends:sanfrancisco:general:
 ** TODO Create plan of what to do in Moscow 		 :moscow:travel:general:
