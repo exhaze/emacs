@@ -41,7 +41,7 @@
 ** DONE Buy Github account			     :git:purchases:programming:
 
 * General tasks
-** TODO Pick up Dmitry from San Francisco 	  :friends:sanfrancisco:general:
+** INPROGRESS Pick up Dmitry from San Francisco	  :friends:sanfrancisco:general:
    DEADLINE: <2009-05-16 Sat 17:00>
 
 ** TODO Create plan of what to do in Moscow		 :moscow:travel:general:
