@@ -37,6 +37,10 @@
 
 *** TODO Weekly meeting							  :work:
 <2009-05-18 Mon 23:00 +1w>
+*** TODO Update release build of BEF plugin 		       :work:bef:plugin:
+    DEADLINE: <2009-05-18 Mon>
+*** TODO Interview with Sean 				:work:friends:interview:
+<2009-05-21 Thu 14:00>
 
 * Programming 
 ** INPROGRESS Learn more emacs keybinds, etc		     :emacs:programming:
@@ -48,6 +52,10 @@
 ** TODO Weeds 								    :tv:
 <2009-06-08 Mon>
    
+** TODO Dexter 								    :tv:
+<2009-10-01 Thu>
+** TODO Finish up Prison Break 						    :tv:
+** TODO Finish up House 						    :tv:
 * General
 ** DONE Pick up Dmitry from San Francisco	  :friends:sanfrancisco:general:
    DEADLINE: <2009-05-16 Sat 17:00>
@@ -60,3 +68,10 @@
    <2009-07-09 Thu 15:30>
 ** TODO Flight: Russia -> Amsterdam -> SFO 			:general:moscow:
    <2009-08-12 Wed 11:10>
+** TODO Call Fastrak about tickets 			:general:finance:ticket:
+   DEADLINE: <2009-05-29 Fri>
+** TODO Read up more about fighting speeding tickets 		:general:ticket:
+* Fitness
+** TODO Play more tennis 			      :sports:fitness:clubsport:
+** TODO Start workout regimen 				     :fitness:clubsport:
+** TODO Start going to club sport more often 		     :fitness:clubsport:
