@@ -1,7 +1,7 @@
 #+SEQ_TODO: TODO INPROGRESS DONE
 
 * Work
-** INPROGRESS Incorporate CMake into BEF plugin		     :work:bef:cmake:
+** INPROGRESS Incorporate CMake into BEF plugin			:work:bef:cmake:
    DEADLINE: <2009-05-31 Sun>
 
 ** INPROGRESS Finish prototype of Photoshop Filters plugin :work:plugin:monarch:
@@ -13,7 +13,7 @@
     OK, Cancel, image display, and dynamically populated pane that
     takes a bunch of scroll bars and buttons, basically, whatever is
     needed for the transformation
-
+    
 *** TODO Image resizing to miniature
     Image needs to be resized to about 1.5 megapixel image - this image
     will be the one that all operations will be done on
@@ -37,17 +37,17 @@
 
 *** TODO Weekly meeting							  :work:
 <2009-05-18 Mon 23:00 +1w>
-*** TODO Update release build of BEF plugin 		       :work:bef:plugin:
+*** TODO Update release build of BEF plugin		       :work:bef:plugin:
     DEADLINE: <2009-05-18 Mon>
-*** TODO Interview with Sean 				:work:friends:interview:
+*** TODO Interview with Sean				:work:friends:interview:
 <2009-05-21 Thu 14:00>
+
 
 * Programming 
 ** INPROGRESS Learn more emacs keybinds, etc		     :emacs:programming:
 ** INPROGRESS Learn org-mode better			     :emacs:programming:
 ** INPROGRESS Learn Python!				    :python:programming:
-** DONE Buy Github account			     :git:purchases:programming:
-
+** TODO Learn about bloom filters 			:algorithms:programming:
 * TV
 ** TODO Weeds 								    :tv:
 <2009-06-08 Mon>
@@ -57,8 +57,6 @@
 ** TODO Finish up Prison Break 						    :tv:
 ** TODO Finish up House 						    :tv:
 * General
-** DONE Pick up Dmitry from San Francisco	  :friends:sanfrancisco:general:
-   DEADLINE: <2009-05-16 Sat 17:00>
 ** TODO Create plan of what to do in Moscow		 :moscow:travel:general:
    DEADLINE: <2009-07-08 Wed>
 ** INPROGRESS Tell Ryan to sod off			       :friends:general:
