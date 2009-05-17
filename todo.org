@@ -1,6 +1,6 @@
 #+SEQ_TODO: TODO INPROGRESS DONE
 
-* Work tasks
+* Work
 ** INPROGRESS Incorporate CMake into BEF plugin		     :work:bef:cmake:
    DEADLINE: <2009-05-31 Sun>
 
@@ -34,23 +34,24 @@
     once for both Mac and PC. ADM Dialogs code is also an
     option.
 
-* Programming tasks
+* Programming 
 ** INPROGRESS Learn more emacs keybinds, etc		     :emacs:programming:
 ** INPROGRESS Learn org-mode better			     :emacs:programming:
-** TODO Learn Python! 					    :python:programming:
+** INPROGRESS Learn Python!				    :python:programming:
 ** DONE Buy Github account			     :git:purchases:programming:
 
-* General tasks
-** INPROGRESS Pick up Dmitry from San Francisco	  :friends:sanfrancisco:general:
-   DEADLINE: <2009-05-16 Sat 17:00>
+* TV
+** TODO Weeds <2009-06-08 Mon> 						    :tv:
 
+* General
+** DONE Pick up Dmitry from San Francisco	  :friends:sanfrancisco:general:
+   DEADLINE: <2009-05-16 Sat 17:00>
 ** TODO Create plan of what to do in Moscow		 :moscow:travel:general:
    DEADLINE: <2009-07-08 Wed>
-
 ** INPROGRESS Tell Ryan to sod off			       :friends:general:
-** TODO Meet at Kevin's house to go to Davis 		       :friends:general:
+** TODO Meet at Anthony's house to go to Davis 		       :friends:general:
    DEADLINE: <2009-05-17 Sun 11:00>
 ** TODO Flight: SFO -> France -> Russia 			:general:moscow:
    <2009-07-09 Thu 15:30>
-** TODO Flight: Russia -> Amsterdam -> SFO :general:moscow:
+** TODO Flight: Russia -> Amsterdam -> SFO 			:general:moscow:
    <2009-08-12 Wed 11:10>
