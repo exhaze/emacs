@@ -28,11 +28,15 @@
 *** TODO Rendering sRGB
     This is already addressed by image transformation
 *** TODO User interface event code
+
     This will be somewhat copied from UCT Studio's dialogue event code,
     however, I'm going to see if it'll be possible to use a platform-
     indepedent library like Qt here, so that the code can be written just
     once for both Mac and PC. ADM Dialogs code is also an
     option.
+
+*** TODO Weekly meeting							  :work:
+<2009-05-18 Mon 23:00 +1w>
 
 * Programming 
 ** INPROGRESS Learn more emacs keybinds, etc		     :emacs:programming:
@@ -41,8 +45,9 @@
 ** DONE Buy Github account			     :git:purchases:programming:
 
 * TV
-** TODO Weeds <2009-06-08 Mon> 						    :tv:
-
+** TODO Weeds 								    :tv:
+<2009-06-08 Mon>
+   
 * General
 ** DONE Pick up Dmitry from San Francisco	  :friends:sanfrancisco:general:
    DEADLINE: <2009-05-16 Sat 17:00>
