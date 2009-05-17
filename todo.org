@@ -45,12 +45,12 @@
    DEADLINE: <2009-05-16 Sat 17:00>
 
 ** TODO Create plan of what to do in Moscow		 :moscow:travel:general:
-   DEADLINE: <2009-07-10 Fri>
+   DEADLINE: <2009-07-08 Wed>
 
 ** INPROGRESS Tell Ryan to sod off			       :friends:general:
 ** TODO Meet at Kevin's house to go to Davis 		       :friends:general:
    DEADLINE: <2009-05-17 Sun 11:00>
 ** TODO Flight: SFO -> France -> Russia 			:general:moscow:
-   <2009-06-09 Tue 15:30>
+   <2009-07-09 Thu 15:30>
 ** TODO Flight: Russia -> Amsterdam -> SFO :general:moscow:
    <2009-08-12 Wed 11:10>
