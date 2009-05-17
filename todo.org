@@ -1,7 +1,7 @@
 #+SEQ_TODO: TODO INPROGRESS DONE
 
 * Work tasks
-** INPROGRESS Incorporate CMake into BEF plugin		     :work:plugin:cmake:
+** INPROGRESS Incorporate CMake into BEF plugin		     :work:bef:cmake:
    DEADLINE: <2009-05-31 Sun>
 
 ** INPROGRESS Finish prototype of Photoshop Filters plugin :work:plugin:monarch:
@@ -51,6 +51,6 @@
 ** TODO Meet at Kevin's house to go to Davis 		       :friends:general:
    DEADLINE: <2009-05-17 Sun 11:00>
 ** TODO Flight: SFO -> France -> Russia 			:general:moscow:
-<2009-06-09 Tue 15:30>
+   <2009-06-09 Tue 15:30>
 ** TODO Flight: Russia -> Amsterdam -> SFO :general:moscow:
-<2009-08-12 Wed 11:10>
+   <2009-08-12 Wed 11:10>
