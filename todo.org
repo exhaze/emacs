@@ -3,17 +3,14 @@
 * Work
 ** INPROGRESS Incorporate CMake into BEF plugin			:work:bef:cmake:
    DEADLINE: <2009-05-31 Sun>
-
 ** INPROGRESS Finish prototype of Photoshop Filters plugin :work:plugin:monarch:
    DEADLINE: <2009-05-29 Fri>
 *** INPROGRESS Plug-in integration
     This is almost done, just need to add some more basic boilerplate code.
-    
 *** TODO Make a superficial UI
     OK, Cancel, image display, and dynamically populated pane that
     takes a bunch of scroll bars and buttons, basically, whatever is
     needed for the transformation
-    
 *** TODO Image resizing to miniature
     Image needs to be resized to about 1.5 megapixel image - this image
     will be the one that all operations will be done on
@@ -28,20 +25,17 @@
 *** TODO Rendering sRGB
     This is already addressed by image transformation
 *** TODO User interface event code
-
     This will be somewhat copied from UCT Studio's dialogue event code,
     however, I'm going to see if it'll be possible to use a platform-
     indepedent library like Qt here, so that the code can be written just
     once for both Mac and PC. ADM Dialogs code is also an
     option.
-
 *** TODO Weekly meeting							  :work:
-<2009-05-18 Mon 23:00 +1w>
+    <2009-05-18 Mon 23:00 +1w>
 *** TODO Update release build of BEF plugin		       :work:bef:plugin:
     DEADLINE: <2009-05-18 Mon>
 *** TODO Interview with Sean				:work:friends:interview:
-<2009-05-21 Thu 14:00>
-
+    <2009-05-21 Thu 14:00>
 
 * Programming 
 ** INPROGRESS Learn more emacs keybinds, etc		     :emacs:programming:
@@ -50,10 +44,9 @@
 ** TODO Learn about bloom filters 			:algorithms:programming:
 * TV
 ** TODO Weeds 								    :tv:
-<2009-06-08 Mon>
-   
+   <2009-06-08 Mon>   
 ** TODO Dexter 								    :tv:
-<2009-10-01 Thu>
+   <2009-10-01 Thu>
 ** TODO Finish up Prison Break 						    :tv:
 ** TODO Finish up House 						    :tv:
 * General
@@ -61,7 +54,7 @@
    DEADLINE: <2009-07-08 Wed>
 ** INPROGRESS Tell Ryan to sod off			       :friends:general:
 ** TODO Meet at Anthony's house to go to Davis 		       :friends:general:
-   DEADLINE: <2009-05-17 Sun 11:00>
+   <2009-05-17 Sun 11:00>
 ** TODO Flight: SFO -> France -> Russia 			:general:moscow:
    <2009-07-09 Thu 15:30>
 ** TODO Flight: Russia -> Amsterdam -> SFO 			:general:moscow:
@@ -69,6 +62,9 @@
 ** TODO Call Fastrak about tickets 			:general:finance:ticket:
    DEADLINE: <2009-05-29 Fri>
 ** TODO Read up more about fighting speeding tickets 		:general:ticket:
+** TODO Return keyboard/power strips to Dmitry 		       :general:friends:
+   DEADLINE: <2009-05-18 Mon>
+
 * Fitness
 ** TODO Play more tennis 			      :sports:fitness:clubsport:
 ** TODO Start workout regimen 				     :fitness:clubsport:
