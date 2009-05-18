@@ -62,11 +62,10 @@
 ** TODO Call Fastrak about tickets 			:general:finance:ticket:
    DEADLINE: <2009-05-29 Fri>
 ** TODO Read up more about fighting speeding tickets 		:general:ticket:
-** DONE Return keyboard/power strips to Dmitry		       :general:friends:
-   DEADLINE: <2009-05-18 Mon> CLOSED: [2009-05-18 Mon 11:51]
-
 ** TODO Funeral 					       :general:friends:
 <2009-05-18 Mon 16:00>
+** TODO Answer trafic court letter :general:ticket:
+   DEADLINE: <2009-06-13 Sat>
 * Fitness
 ** TODO Play more tennis 			      :sports:fitness:clubsport:
 ** TODO Start workout regimen 				     :fitness:clubsport:
