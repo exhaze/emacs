@@ -65,6 +65,8 @@
 ** TODO Return keyboard/power strips to Dmitry 		       :general:friends:
    DEADLINE: <2009-05-18 Mon>
 
+** TODO Funeral 					       :general:friends:
+<2009-05-18 Mon 16:00>
 * Fitness
 ** TODO Play more tennis 			      :sports:fitness:clubsport:
 ** TODO Start workout regimen 				     :fitness:clubsport:
