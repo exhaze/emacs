@@ -6,6 +6,7 @@
 ** INPROGRESS Learn Python!				    :python:programming:
 ** TODO Learn about bloom filters 			:algorithms:programming:
 
+** TODO Golomb coding 			    :algorithms:compression:programming:
 * Work
 ** INPROGRESS Incorporate CMake into BEF plugin			:work:bef:cmake:
    DEADLINE: <2009-05-31 Sun>
@@ -43,6 +44,7 @@
     DEADLINE: <2009-05-18 Mon>
 *** TODO Interview with Sean				:work:friends:interview:
     <2009-05-22 Fri 13:00>
+*** TODO Read up on multithreading 			   :work:hdrphotostudio:
 * Fitness
 ** INPROGRESS Play more tennis			      :sports:fitness:clubsport:
    <2009-05-18 Mon 21:00-22:30>
