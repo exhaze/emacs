@@ -62,11 +62,11 @@
 ** TODO Call Fastrak about tickets 			:general:finance:ticket:
    DEADLINE: <2009-05-29 Fri>
 ** TODO Read up more about fighting speeding tickets 		:general:ticket:
-** TODO Funeral 					       :general:friends:
-<2009-05-18 Mon 16:00>
-** TODO Answer trafic court letter :general:ticket:
+** TODO Answer trafic court letter 				:general:ticket:
    DEADLINE: <2009-06-13 Sat>
 * Fitness
 ** TODO Play more tennis 			      :sports:fitness:clubsport:
 ** TODO Start workout regimen 				     :fitness:clubsport:
 ** TODO Start going to club sport more often 		     :fitness:clubsport:
+** TODO Find out why the hell Club Sport charged me $200     :fitness:clubsport:
+** TODO Tennis with Matt at Centerville 			:fitness:sports:
