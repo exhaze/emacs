@@ -1,5 +1,11 @@
 #+SEQ_TODO: TODO INPROGRESS DONE
 
+* Programming 
+** INPROGRESS Learn more emacs keybinds, etc		     :emacs:programming:
+** INPROGRESS Learn org-mode better			     :emacs:programming:
+** INPROGRESS Learn Python!				    :python:programming:
+** TODO Learn about bloom filters 			:algorithms:programming:
+
 * Work
 ** INPROGRESS Incorporate CMake into BEF plugin			:work:bef:cmake:
    DEADLINE: <2009-05-31 Sun>
@@ -36,19 +42,12 @@
     DEADLINE: <2009-05-18 Mon>
 *** TODO Interview with Sean				:work:friends:interview:
     <2009-05-21 Thu 14:00>
-
-* Programming 
-** INPROGRESS Learn more emacs keybinds, etc		     :emacs:programming:
-** INPROGRESS Learn org-mode better			     :emacs:programming:
-** INPROGRESS Learn Python!				    :python:programming:
-** TODO Learn about bloom filters 			:algorithms:programming:
-* TV
-** TODO Weeds 								    :tv:
-   <2009-06-08 Mon>   
-** TODO Dexter 								    :tv:
-   <2009-10-01 Thu>
-** TODO Finish up Prison Break 						    :tv:
-** TODO Finish up House 						    :tv:
+* Fitness
+** INPROGRESS Play more tennis			      :sports:fitness:clubsport:
+   <2009-05-18 Mon 21:00-22:30>
+** TODO Start workout regimen 				     :fitness:clubsport:
+** TODO Start going to club sport more often 		     :fitness:clubsport:
+** TODO Find out why the hell Club Sport charged me $200     :fitness:clubsport:
 * General
 ** TODO Create plan of what to do in Moscow		 :moscow:travel:general:
    DEADLINE: <2009-07-08 Wed>
@@ -64,9 +63,10 @@
 ** TODO Read up more about fighting speeding tickets 		:general:ticket:
 ** TODO Answer trafic court letter 				:general:ticket:
    DEADLINE: <2009-06-13 Sat>
-* Fitness
-** TODO Play more tennis 			      :sports:fitness:clubsport:
-** TODO Start workout regimen 				     :fitness:clubsport:
-** TODO Start going to club sport more often 		     :fitness:clubsport:
-** TODO Find out why the hell Club Sport charged me $200     :fitness:clubsport:
-** TODO Tennis with Matt at Centerville 			:fitness:sports:
+* TV
+** TODO Weeds 								    :tv:
+   <2009-06-08 Mon>   
+** TODO Dexter 								    :tv:
+   <2009-10-01 Thu>
+** TODO Finish up Prison Break 						    :tv:
+** TODO Finish up House 						    :tv:
