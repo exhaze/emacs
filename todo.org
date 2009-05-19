@@ -42,7 +42,7 @@
 *** TODO Update release build of BEF plugin		       :work:bef:plugin:
     DEADLINE: <2009-05-18 Mon>
 *** TODO Interview with Sean				:work:friends:interview:
-    <2009-05-21 Thu 14:00>
+    <2009-05-22 Fri 13:00>
 * Fitness
 ** INPROGRESS Play more tennis			      :sports:fitness:clubsport:
    <2009-05-18 Mon 21:00-22:30>
@@ -73,8 +73,12 @@
 ** TODO Finish up Prison Break 						    :tv:
 ** TODO Finish up House 						    :tv:
 * Expenses
-| Item           | Details  | Date             | Cost    |
-| Lunch          | Zorba's  | <2009-05-18 Mon> | $10.00  |
-| Dinner         | Chipotle | <2009-05-18 Mon> | $7.80   |
-| Loan repayment | Mom      | <2009-05-18 Mon> | $300.00 |
-
+| Date             | Item                  | Cost (USD) |
+|------------------+-----------------------+------------|
+| <2009-05-18 Mon> | Lunch at Zorba's      |      10.00 |
+| <2009-05-18 Mon> | Dinner at Chipotle    |       7.80 |
+| <2009-05-18 Mon> | Loan repayment to mom |     300.00 |
+|------------------+-----------------------+------------|
+|                  | Total amount:         |     317.80 |
+#+TBLFM: $3=vsum(@2..@4);%.2f
+  
