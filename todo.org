@@ -80,7 +80,8 @@
 | <2009-05-18 Mon> | Lunch at Zorba's      |      10.00 |
 | <2009-05-18 Mon> | Dinner at Chipotle    |       7.80 |
 | <2009-05-18 Mon> | Loan repayment to mom |     300.00 |
+| <2009-05-18 Mon> | Food at Denny's       |      10.00 |
 |------------------+-----------------------+------------|
-|                  | Total amount:         |     317.80 |
-#+TBLFM: $3=vsum(@2..@4);%.2f
+|                  | Total amount:         |     327.80 |
+#+TBLFM: $3=vsum(@2..@5);%.2f
   
