@@ -38,6 +38,7 @@
     option.
 *** TODO Weekly meeting							  :work:
     <2009-05-18 Mon 23:00 +1w>
+    <2009-05-18 Mon 23:00-00:20>
 *** TODO Update release build of BEF plugin		       :work:bef:plugin:
     DEADLINE: <2009-05-18 Mon>
 *** TODO Interview with Sean				:work:friends:interview:
@@ -48,6 +49,7 @@
 ** TODO Start workout regimen 				     :fitness:clubsport:
 ** TODO Start going to club sport more often 		     :fitness:clubsport:
 ** TODO Find out why the hell Club Sport charged me $200     :fitness:clubsport:
+** TODO test :blah:
 * General
 ** TODO Create plan of what to do in Moscow		 :moscow:travel:general:
    DEADLINE: <2009-07-08 Wed>
@@ -70,3 +72,9 @@
    <2009-10-01 Thu>
 ** TODO Finish up Prison Break 						    :tv:
 ** TODO Finish up House 						    :tv:
+* Expenses
+| Item           | Details  | Date             | Cost    |
+| Lunch          | Zorba's  | <2009-05-18 Mon> | $10.00  |
+| Dinner         | Chipotle | <2009-05-18 Mon> | $7.80   |
+| Loan repayment | Mom      | <2009-05-18 Mon> | $300.00 |
+
