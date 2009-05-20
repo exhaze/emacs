@@ -7,6 +7,8 @@
 ** TODO Learn about bloom filters 			:algorithms:programming:
 
 ** TODO Golomb coding 			    :algorithms:compression:programming:
+** TODO Read "The Pragmatic Programmer" 			   :programming:
+** TODO Read all my other books that I have saved 		   :programming:
 * Work
 ** TODO Fix negative B values bug 					  :work:
 ** INPROGRESS Incorporate CMake into BEF plugin			:work:bef:cmake:
