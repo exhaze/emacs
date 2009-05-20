@@ -46,8 +46,8 @@
 ** TODO Weekly meeting							  :work:
    <2009-05-18 Mon 23:00 +1w>
    <2009-05-18 Mon 23:00-00:20>
-** TODO Update release build of BEF plugin		       :work:bef:plugin:
-   DEADLINE: <2009-05-18 Mon>
+** DONE Update release build of BEF plugin		       :work:bef:plugin:
+   DEADLINE: <2009-05-18 Mon> CLOSED: [2009-05-20 Wed 14:26]
 ** TODO Interview with Sean				:work:friends:interview:
    <2009-05-22 Fri 13:00>
 ** TODO Read up on multithreading			   :work:hdrphotostudio:
