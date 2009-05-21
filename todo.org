@@ -55,6 +55,7 @@
 ** TODO Interview with Sean				:work:friends:interview:
    <2009-05-22 Fri 13:00>
 ** TODO Read up on multithreading			   :work:hdrphotostudio:
+** TODO Fix bug #2024 - optimize memory in codec 	       :work:plugin:bef:
 * Fitness
 ** INPROGRESS Play more tennis			      :sports:fitness:clubsport:
    <2009-05-18 Mon 21:00-22:30>
