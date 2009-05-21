@@ -23,7 +23,9 @@
 *** INPROGRESS Create design for base classes/factories for retrieving filters
     DEADLINE: <2009-05-22 Fri>
     Created _filter_factory, _filter_base, _brightness_filter, still need to
-    add the rest of the filters. Still need to test functionality
+    add the rest of the filters. Still need to test functionality. Hmm, looks
+    like there's no real need to do this, just use the classes already there.
+    Then again, the base class interfaces may not work for them.
     
 *** TODO Image resizing to miniature
     Image needs to be resized to about 1.5 megapixel image - this image
@@ -74,6 +76,8 @@
 ** TODO Read up more about fighting speeding tickets 		:general:ticket:
 ** TODO Answer trafic court letter 				:general:ticket:
    DEADLINE: <2009-06-13 Sat>
+** TODO Davis 						       :general:friends:
+<2009-05-21 Thu 17:00>
 * TV
 ** TODO Weeds 								    :tv:
    <2009-06-08 Mon>   
@@ -90,6 +94,9 @@
 | <2009-05-18 Mon> | Food at Denny's       |      10.00 |
 | <2009-05-19 Tue> | Food + Coffee         |       17.8 |
 | <2009-05-20 Wed> | Coffee                |       3.80 |
+| <2009-05-20 Wed> | Subway                |       2.80 |
+| <2009-05-20 Wed> | Energy drink          |       3.40 |
+| <2009-05-20 Wed> | In-n-out              |       2.80 |
 |------------------+-----------------------+------------|
-|                  | Total amount          |     349.40 |
-#+TBLFM: $3=vsum(@2..@7);%.2f
+|                  | Total amount          |     358.40 |
+#+TBLFM: $3=vsum(@2..@10);%.2f    349.40
