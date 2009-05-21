@@ -20,6 +20,11 @@
     OK, Cancel, image display, and dynamically populated pane that
     takes a bunch of scroll bars and buttons, basically, whatever is
     needed for the transformation
+*** INPROGRESS Create design for base classes/factories for retrieving filters
+    DEADLINE: <2009-05-22 Fri>
+    Created _filter_factory, _filter_base, _brightness_filter, still need to
+    add the rest of the filters. Still need to test functionality
+    
 *** TODO Image resizing to miniature
     Image needs to be resized to about 1.5 megapixel image - this image
     will be the one that all operations will be done on
