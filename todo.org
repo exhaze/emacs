@@ -84,6 +84,7 @@
 | <2009-05-18 Mon> | Loan repayment to mom |     300.00 |
 | <2009-05-18 Mon> | Food at Denny's       |      10.00 |
 | <2009-05-19 Tue> | Food + Coffee         |       17.8 |
+| <2009-05-20 Wed> | Coffee                |       3.80 |
 |------------------+-----------------------+------------|
-|                  | Total amount:         |      327.8 |
-#+TBLFM: $3=vsum(@2..@5)
+|                  | Total amount          |     349.40 |
+#+TBLFM: $3=vsum(@2..@7);%.2f
