@@ -58,6 +58,9 @@
    <2009-05-22 Fri 13:00>
 ** TODO Read up on multithreading			   :work:hdrphotostudio:
 ** INPROGRESS Fix bug #2024 - optimize memory in codec	       :work:plugin:bef:
+   DEADLINE: <2009-05-22 Fri 13:00>
+   Need to add constructor to _image_t which takes an _internal_image and just
+   uses the internal image's channels
 * Fitness
 ** INPROGRESS Play more tennis			      :sports:fitness:clubsport:
    <2009-05-18 Mon 21:00-22:30>
