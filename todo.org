@@ -54,7 +54,7 @@
    <2009-05-18 Mon 23:00-00:20>
 ** TODO Read up on multithreading			   :work:hdrphotostudio:
 ** INPROGRESS Fix bug #2024 - optimize memory in codec	       :work:plugin:bef:
-   DEADLINE: <2009-05-22 Fri 13:00>
+   DEADLINE: <2009-05-28 Thu>
    Change for loops to parallelized tbb parts, add functors
 ** TODO Read up about VTune 			       :work:plugin:programming:
 * Fitness
