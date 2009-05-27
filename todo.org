@@ -82,8 +82,9 @@
    <2009-06-08 Mon>   
 ** TODO Dexter 								    :tv:
    <2009-10-01 Thu>
+** DONE Finish up House							    :tv:
+   CLOSED: [2009-05-26 Tue 22:59]
 ** TODO Finish up Prison Break 						    :tv:
-** INPROGRESS Finish up House						    :tv:
 * Expenses
 | Date             | Item                  | Cost (USD) |
 |------------------+-----------------------+------------|
