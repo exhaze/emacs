@@ -57,6 +57,8 @@
    DEADLINE: <2009-05-28 Thu>
    Change for loops to parallelized tbb parts, add functors
 ** DONE Read up about VTune			       :work:plugin:programming:
+** TODO Add progress bar to BEF Plug-in 		       :work:plugin:bef:
+** TODO Add usage of swap files to BEF plug-in 		       :work:plugin:bef:
 * Fitness
 ** INPROGRESS Play more tennis			      :sports:fitness:clubsport:
    <2009-05-18 Mon 21:00-22:30>
