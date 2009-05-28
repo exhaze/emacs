@@ -65,6 +65,7 @@
 ** TODO Start workout regimen 				     :fitness:clubsport:
 ** INPROGRESS Start going to club sport more often	     :fitness:clubsport:
 ** TODO Find out why the hell Club Sport charged me $200     :fitness:clubsport:
+** TODO Start running 						       :fitness:
 * General
 ** TODO Create plan of what to do in Moscow		 :moscow:travel:general:
    DEADLINE: <2009-07-08 Wed>
@@ -87,6 +88,7 @@
 ** DONE Finish up House							    :tv:
    CLOSED: [2009-05-26 Tue 22:59]
 ** TODO Finish up Prison Break 						    :tv:
+** TODO Zeitgeist Addendum 						    :tv:
 * Expenses
 | Date             | Item                  | Cost (USD) |
 |------------------+-----------------------+------------|
