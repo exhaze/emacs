@@ -16,11 +16,11 @@
    DEADLINE: <2009-05-29 Fri>
 *** INPROGRESS Plug-in integration
     This is almost done, just need to add some more basic boilerplate code.
-*** TODO Make a superficial UI
+*** DONE Make a superficial UI
     OK, Cancel, image display, and dynamically populated pane that
     takes a bunch of scroll bars and buttons, basically, whatever is
     needed for the transformation
-*** INPROGRESS Create design for base classes/factories for retrieving filters
+*** DONE Create design for base classes/factories for retrieving filters
     DEADLINE: <2009-05-22 Fri>
     Created _filter_factory, _filter_base, _brightness_filter, still need to
     add the rest of the filters. Still need to test functionality. Hmm, looks
@@ -56,7 +56,7 @@
 ** INPROGRESS Fix bug #2024 - optimize memory in codec	       :work:plugin:bef:
    DEADLINE: <2009-05-28 Thu>
    Change for loops to parallelized tbb parts, add functors
-** TODO Read up about VTune 			       :work:plugin:programming:
+** DONE Read up about VTune			       :work:plugin:programming:
 * Fitness
 ** INPROGRESS Play more tennis			      :sports:fitness:clubsport:
    <2009-05-18 Mon 21:00-22:30>
