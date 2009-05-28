@@ -88,7 +88,7 @@
 ** DONE Finish up House							    :tv:
    CLOSED: [2009-05-26 Tue 22:59]
 ** TODO Finish up Prison Break 						    :tv:
-** TODO Zeitgeist Addendum 						    :tv:
+** TODO Zeitgeist: Addendum 						    :tv:
 * Expenses
 | Date             | Item                  | Cost (USD) |
 |------------------+-----------------------+------------|
