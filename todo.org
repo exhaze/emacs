@@ -59,6 +59,12 @@
 ** DONE Read up about VTune			       :work:plugin:programming:
 ** TODO Add progress bar to BEF Plug-in 		       :work:plugin:bef:
 ** TODO Add usage of swap files to BEF plug-in 		       :work:plugin:bef:
+** TODO Fix Mac version of plug-in 			   :work:plugin:bef:mac:
+   DEADLINE: <2009-05-29 Fri 17:00>
+
+** TODO Add dialog to Mac version of plug-in 		   :work:plugin:bef:mac:
+   DEADLINE: <2009-05-29 Fri 17:00>
+
 * Fitness
 ** INPROGRESS Play more tennis			      :sports:fitness:clubsport:
    <2009-05-18 Mon 21:00-22:30>
@@ -78,8 +84,8 @@
 ** TODO Read up more about fighting speeding tickets 		:general:ticket:
 ** TODO Answer trafic court letter 				:general:ticket:
    DEADLINE: <2009-06-13 Sat>
-** TODO Davis 						       :general:friends:
-<2009-05-21 Thu 17:00>
+** TODO Davis 						:general:friends:travel:
+<2009-06-06 Sat>
 * TV
 ** TODO Weeds 								    :tv:
    <2009-06-08 Mon>   
