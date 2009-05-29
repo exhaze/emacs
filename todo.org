@@ -65,7 +65,7 @@
 ** TODO Add dialog to Mac version of plug-in 		   :work:plugin:bef:mac:
    DEADLINE: <2009-05-29 Fri 17:00>
 
-** TODO Talk to Nikita about image validation :work:kwelib:
+** TODO Talk to Nikita about image validation 			   :work:kwelib:
    DEADLINE: <2009-05-28 Thu 23:00>
 
 * Fitness
