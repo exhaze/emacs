@@ -27,10 +27,10 @@
     like there's no real need to do this, just use the classes already there.
     Then again, the base class interfaces may not work for them.
     
-*** TODO Image resizing to miniature
+*** DONE Image resizing to miniature
     Image needs to be resized to about 1.5 megapixel image - this image
     will be the one that all operations will be done on
-*** TODO Rendering the miniature inside Photoshop
+*** DONE Rendering the miniature inside Photoshop
     The miniature should be rendered using some internal Photoshop API
     that is used to draw graphics inside of a dialogue
 *** TODO Image transformation
@@ -38,7 +38,7 @@
     by kwelib
 *** TODO Converting BEF back to sRGB
     Use kwe::cmss::colorspace class in order to do these transforms
-*** TODO Rendering sRGB
+*** DONE Rendering sRGB
     This is already addressed by image transformation
 *** TODO User interface event code
     This will be somewhat copied from UCT Studio's dialogue event code,
