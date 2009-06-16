@@ -14,7 +14,7 @@
    DEADLINE: <2009-05-31 Sun>
 ** INPROGRESS Finish prototype of Photoshop Filters plugin :work:plugin:monarch:
    DEADLINE: <2009-05-29 Fri>
-*** INPROGRESS Plug-in integration
+*** DONE Plug-in integration
     This is almost done, just need to add some more basic boilerplate code.
 *** DONE Make a superficial UI
     OK, Cancel, image display, and dynamically populated pane that
@@ -33,19 +33,21 @@
 *** DONE Rendering the miniature inside Photoshop
     The miniature should be rendered using some internal Photoshop API
     that is used to draw graphics inside of a dialogue
-*** TODO Image transformation
+*** DONE Image transformation
     Image transformations will simply be the functions that are provided
     by kwelib
-*** TODO Converting BEF back to sRGB
+*** DONE Converting BEF back to sRGB
     Use kwe::cmss::colorspace class in order to do these transforms
 *** DONE Rendering sRGB
     This is already addressed by image transformation
-*** INPROGRESS User interface event code
+*** DONE User interface event code
     This will be somewhat copied from UCT Studio's dialogue event code,
     however, I'm going to see if it'll be possible to use a platform-
     indepedent library like Qt here, so that the code can be written just
     once for both Mac and PC. ADM Dialogs code is also an
     option.
+*** INPROGRESS Contrast
+*** TODO Local Contrast
 *** TODO White Balance operation
 *** TODO Color Tuning operation
 *** TODO Saturation operation
@@ -85,8 +87,6 @@
    DEADLINE: <2009-06-13 Sat>
 ** TODO Davis 						:general:friends:travel:
 <2009-06-06 Sat>
-** TODO Haircut :general:
-<2009-06-12 Fri 11:15>
 * TV
 ** INPROGRESS Weeds							    :tv:
    <2009-06-08 Mon>   
