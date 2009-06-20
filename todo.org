@@ -46,7 +46,9 @@
     indepedent library like Qt here, so that the code can be written just
     once for both Mac and PC. ADM Dialogs code is also an
     option.
-*** INPROGRESS Contrast
+*** DONE Contrast
+*** INPROGRESS Eyedrop tool
+    Icon not showing up on button, why not?
 *** TODO Local Contrast
 *** TODO White Balance operation
 *** TODO Color Tuning operation
@@ -63,9 +65,7 @@
 ** TODO Add dialog to Mac version of plug-in 		   :work:plugin:bef:mac:
    DEADLINE: <2009-05-29 Fri 17:00>
 
-** TODO Talk to Nikita about image validation 			   :work:kwelib:
-   DEADLINE: <2009-05-28 Thu 23:00>
-
+** TODO Fix multi-threading issue with OpenEXR 			      :work:mac:
 * Fitness
 ** INPROGRESS Play more tennis			      :sports:fitness:clubsport:
    <2009-05-18 Mon 21:00-22:30>
